@@ -48,6 +48,25 @@ k. git commit -m "type msg"
 
 l. git push origin main -f
 
-m. 
+
+
+1. git add .
+
+2. git commit -m "type msg"
+
+3. git push origin main
+
 
 '''
+
+# Creat .gitignore file and paste detail (if u dont want to upload any file into git then put that file in .gitignore Like .env file)
+'''
+a. as per file
+'''
+
+# Creat .env file (if you dont want to upload some detail into github like ID and PASS )
+'''
+a. as per file
+'''
+
+
