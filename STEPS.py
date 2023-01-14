@@ -42,4 +42,12 @@ h. git reset --soft "paste ID ref"
 
 i. git add .
 
+j. git status
+
+k. git commit -m "type msg"
+
+l. git push origin main -f
+
+m. 
+
 '''
